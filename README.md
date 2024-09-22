@@ -1,4 +1,4 @@
-cyber## Hi there 👋
+Hello, I'm Andrew 👋
  
   <a href="https://linkedin.com/in/andrewlukeman"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -44,6 +44,12 @@ My journey in the cyber security bootcamp has led me to develop a passion for cy
  <img src="https://img.shields.io/badge/-Network%20Essentials-003B5C?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
  </div>
+
+## Projects
+- Detection Lab
+- DOC Automation Project
+- Test Project
+ 
 <!--
 **AndrewDefends/AndrewDefends** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
