@@ -47,7 +47,7 @@ My journey in the cyber security bootcamp has led me to develop a passion for cy
 
 ## Projects
 - Detection Lab
-- DOC Automation Project
+- SOC Automation Project
 - Test Project
  
 <!--
