@@ -7,12 +7,12 @@
 I recently graduated from a thirteen-week program CyberSecurity Program with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective]
+<!-- [Provide Objective] -->
 
 My journey in the cyber security bootcamp has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project]
+<!-- [Provide skills and associated project. Make sure to hyperlink the project] -->
 
 | Skill                                        | Associated Project          |
 |----------------------------------------------|-----------------------------|
